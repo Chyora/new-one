@@ -1,0 +1,168 @@
+
+.main-page{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+    height: auto;
+
+    background: #FFFFFF;
+}
+
+header {
+    display: flex;
+}
+.all-text {
+    margin-top: 56px;
+    margin-left: 70px;
+    margin-right: 25px;
+}
+.new-text{
+    margin-top: 56px;
+    margin-right: 25px;
+}
+.woman-text {
+    margin-top: 56px;
+    margin-right: 25px;
+}
+.kids-text{
+    margin-top: 56px;
+    margin-right: 25px;
+}
+.sale-text {
+    margin-top: 56px;
+    margin-right: 25px;
+}
+.about-text{
+    margin-top: 56px;
+    margin-right: 130px;
+}
+.logo1 {
+    margin-top: 45px;
+    margin-right: 300px;
+}
+.search {
+    margin-top: 48px;
+    margin-right: 24px;
+}
+.basket {
+    margin-top: 48px;
+    margin-right: 50px;
+}
+.view-text {
+    position: absolute;
+    
+    font-family: 'Quattrocento';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    
+    text-align: center;
+    
+    color: #231F20;
+    box-sizing: border-box;
+ 
+    width: 300px;
+    height: 30px;
+    margin-left: 600px;
+    margin-top: 1625px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+border-radius: 0px;
+}
+.logo2 {
+    margin-left: 500px;
+    margin-top: 30px;
+}
+.photo1 {
+    margin-left: 160px;
+}
+.photo4 {
+    margin-left: 759px;
+    margin-top: -987px;
+}
+.photo6 {
+    margin-left: 759px;
+    margin-top: -1115px;
+}
+.photo8 {
+    margin-left: 759px;
+    margin-top: -1100px;
+}
+.frame {
+    margin-left: 1100px;
+    margin-top: 450px;
+}
+.join {
+    margin-left: 1150px;
+    margin-top: -22px;
+}
+.line {
+    margin-left: 1050px;
+    margin-top: -44px;
+}
+.line2 {
+    margin-left: 570px;
+    margin-top: -182px;
+}
+.footer {
+    display: flex;
+    flex-direction: column;
+}
+.facebook {
+    margin-left: 100px;
+    margin-top: -50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.instagram {
+    margin-left: 200px;
+    margin-top: -17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.phone {
+    margin-left: 300px;
+    margin-top: -17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.facebookp {
+    margin-left: 120px;
+    margin-top: -46px;
+}
+.instagramp {
+    margin-left: 225px;
+    margin-top: -20px;
+}
+.phonep {
+    margin-left: 310px;
+    margin-top: -19px;
+}
+.contacts {
+    margin-left: 620px;
+    margin-top: -90px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.faq {
+    margin-left: 620px;
+    margin-top: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.privacy {
+    margin-left: 620px;
+    margin-top:  35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.payment {
+    margin-left: 820px;
+    margin-top: -90px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.return {
+    margin-left: 820px;
+    margin-top: 33px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.copyright {
+    margin-left: 200px;
+}
